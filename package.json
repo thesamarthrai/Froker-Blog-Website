@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "@mui/material": "^5.16.4"
+  }
+}
